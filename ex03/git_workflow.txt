@@ -1,3 +1,4 @@
-1. Generated ed25519 SSH key pair for secure authentication
-2. Created comprehensive README.md with required sections
-3. Copied public SSH key to id_ed25519_pub.txt
+1. Created and edited README.md and git_workflow.txt (Edit)
+2. git add ex03/
+3. git commit -m "feat: complete ex03 requirements and documentation"
+4. git push origin main (Push)
