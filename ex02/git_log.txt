@@ -1,42 +1,6 @@
-commit 94b032a5f63590aae48d4d163fb64d26cf5e0039
+commit 49a77ab70467cf4f259ff6b1b54c5ce877f5d415 (HEAD -> main, origin/main)
 Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Sat Oct 3 23:00:19 2026 +0300
+Date:   Sun Oct 4 12:00:19 2026 +0300
 
-    feat: finalize ex00 tree structure and update ex01 run log
+    Add hello.txt
 
-commit b17b36b4abbb5fec84b7d7a06b98b38b498fb835
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Sat Oct 3 22:57:52 2026 +0300
-
-    fix: update run_log.txt with actual output for ex01
-
-commit fd0a6693dad4a904789e3402a69a5d49391a3de6
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Sat Oct 3 22:56:07 2026 +0300
-
-    fix: translate comments to english in ex01
-
-commit a0e15c6258819785ffcbd476abc6b5d881c96013
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Sat Oct 3 22:39:33 2026 +0300
-
-    feat: complete exercises ex00 to ex03
-
-commit a73e39f205b52a4422cd56a66e2036722c597d5a
-Merge: 646f6c2 ed5cf6f
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Thu Oct 1 12:06:13 2026 +0300
-
-    Merge branch 'main' of github.com:yaqeenbatayneh04/discovery-web-piscine
-
-commit 646f6c2f807b26aaed3605ad370790be34ef0635
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Thu Oct 1 11:58:29 2026 +0300
-
-    feat: complete exercise 03 with README and SSH bonus
-
-commit ed5cf6f75f5ad4c1a1537c03592bc7ea2ead0197
-Author: Yaqeen Batayneh <yaqeenbatayneh2004@gmail.com>
-Date:   Thu Oct 1 11:24:04 2026 +0300
-
-    feat: initial commit with hello.txt
